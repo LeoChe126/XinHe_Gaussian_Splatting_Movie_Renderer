@@ -11,7 +11,6 @@
 - OBB Crop Volume with draggable editor widget
 - Brightness and splat scale controls
 - WAV audio playback synced to sequence
-- Editor preview without PIE
 
 ## Installation
 
