@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/Unreal%20Engine-5.6-blue" alt="UE">
     <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" alt="Platform">
     <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="License">
-    <a href="https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases"><img src="https://img.shields.io/github/v/release/DazaiStudio/SplatRenderer-UEPlugin?label=Release" alt="Release"></a>
+    <a href="https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-green" alt="Release"></a>
   </p>
 </p>
 
