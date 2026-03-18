@@ -43,6 +43,8 @@ Launch your project in Unreal Engine 5.6. The plugin will be loaded automaticall
 
 Verify in **Edit > Plugins** by searching for **Splat Renderer**.
 
+![Plugin Browser](docs/plugin-browser.png)
+
 ### 3. Add to Level
 
 Open the **Content Browser** and navigate to **Plugins > Splat Renderer Content > Blueprints**.
