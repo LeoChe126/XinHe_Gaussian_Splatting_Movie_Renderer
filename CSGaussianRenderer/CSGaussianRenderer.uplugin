@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "CS Gaussian Renderer",
+  "Description": "Compute Shader based 3D Gaussian Splatting renderer",
+  "Category": "Rendering",
+  "CreatedBy": "Dazai Studio",
+  "CanContainContent": true,
+  "Modules": [
+    {
+      "Name": "CSGaussianRenderer",
+      "Type": "Runtime",
+      "LoadingPhase": "PostConfigInit"
+    }
+  ]
+}
