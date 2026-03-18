@@ -1,6 +1,6 @@
 # Splat Renderer
 
-3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.6. Precompiled — no C++ compilation needed.
+3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.6.
 
 ![Plugin Browser](docs/plugin-browser.png)
 
