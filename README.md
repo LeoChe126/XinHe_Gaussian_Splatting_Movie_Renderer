@@ -1,4 +1,4 @@
-<img src="docs/logo.png" alt="Splat Renderer" width="200">
+<img src="docs/logo.png" alt="Splat Renderer" width="120">
 
 # Splat Renderer
 
