@@ -1,14 +1,14 @@
-<img src="docs/logo.png" alt="Splat Renderer" width="120">
-
-# Splat Renderer
-
-3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.6.
-
-![UE](https://img.shields.io/badge/Unreal%20Engine-5.6-blue)
-![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)
-![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
-
-<img src="docs/plugin-browser.png" alt="Plugin Browser" width="500">
+<p align="center">
+  <img src="docs/logo.png" alt="Splat Renderer" width="200">
+  <h1 align="center">Splat Renderer</h1>
+  <p align="center">3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.6.</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-5.6-blue" alt="UE">
+    <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" alt="Platform">
+    <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="License">
+    <a href="https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases"><img src="https://img.shields.io/github/v/release/DazaiStudio/SplatRenderer-UEPlugin?label=Release" alt="Release"></a>
+  </p>
+</p>
 
 ---
 
