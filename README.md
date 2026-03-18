@@ -96,6 +96,14 @@ Use [**4DGS Converter**](https://github.com/DazaiStudio/4dgs-converter) to conve
 
 ---
 
+## Author
+
+**Dazai Chen** — Creative Technologist & Lighting Designer
+
+[Website](https://dazaistudio.com) | [GitHub](https://github.com/DazaiStudio) | [LinkedIn](https://www.linkedin.com/in/dazai-chen-280186183/)
+
+---
+
 ## License
 
 All rights reserved. For evaluation and testing purposes only.
