@@ -1,12 +1,12 @@
 <p align="center">
   <img src="docs/logo.png" alt="Splat Renderer" width="200">
   <h1 align="center">Splat Renderer</h1>
-  <p align="center">3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.6.</p>
+  <p align="center">3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.5 / 5.6 / 5.7</p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Unreal%20Engine-5.6-blue" alt="UE">
+    <img src="https://img.shields.io/badge/Unreal%20Engine-5.5%20|%205.6%20|%205.7-blue" alt="UE">
     <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" alt="Platform">
     <img src="https://img.shields.io/badge/License-All%20Rights%20Reserved-red" alt="License">
-    <a href="https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases"><img src="https://img.shields.io/badge/Release-v1.0.0-green" alt="Release"></a>
+    <a href="https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases"><img src="https://img.shields.io/badge/Release-v1.0.1-green" alt="Release"></a>
   </p>
 </p>
 
@@ -45,7 +45,7 @@ Extract `SplatRenderer` into your project's `Plugins/` directory.
 
 ### 2. Open Your Project
 
-Launch your project in Unreal Engine 5.6. The plugin will be loaded automatically.
+Launch your project in Unreal Engine. The plugin will be loaded automatically.
 
 Verify in **Edit > Plugins** by searching for **Splat Renderer**.
 
@@ -63,29 +63,7 @@ Drag **BP_3DGS** or **BP_4DGS** into your level and configure in the **Details**
 
 ## Usage
 
-### BP_3DGS — Static Gaussian Splats
-
-Set `PLY File Path` to any standard 3DGS `.ply` file (COLMAP, Luma, PostShot, etc.)
-
-<img src="docs/bp-3dgs-details.png" alt="BP_3DGS Details" width="400">
-
-### BP_4DGS — 4D Gaussian Splat Sequences
-
-Set `Sequence Path` to a `.gsd` file.
-
-<img src="docs/bp-4dgs-details.png" alt="BP_4DGS Details" width="400">
-
-| Property | Description |
-|----------|-------------|
-| Sequence Path | Path to `.gsd` sequence file |
-| Audio Path | Optional WAV file for synced audio |
-| Playback Speed | 1.0 = normal speed |
-| Playback Mode | Loop or Once |
-| Start/End Frame | -1 = auto (use all frames) |
-| Scrub Frame | Manually seek to a specific frame |
-| Brightness | Adjust splat brightness (0.0 - 5.0) |
-| Splat Scale | Adjust splat size (0.01 - 5.0) |
-| Crop Volume | Enable OBB crop box to mask regions |
+See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases/latest) for detailed usage instructions.
 
 ---
 
@@ -97,7 +75,7 @@ Use [**4DGS Converter**](https://github.com/DazaiStudio/4dgs-converter) to conve
 
 ## Requirements
 
-- Unreal Engine 5.6
+- Unreal Engine 5.5, 5.6, or 5.7
 - Windows (DirectX 12)
 
 ---
