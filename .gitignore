@@ -7,3 +7,6 @@ Saved/
 *.sdf
 *.VC.db
 *.VC.opendb
+
+# Third-party reference plugins (large binaries, not ours)
+ref/
