@@ -16,7 +16,6 @@
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
 - [4DGS Sequence](#4dgs-sequence)
 - [Requirements](#requirements)
 - [License](#license)
@@ -57,13 +56,7 @@ Open the **Content Browser** and navigate to **Plugins > Splat Renderer Content 
 
 <img src="docs/content-browser.png" alt="Content Browser" width="600">
 
-Drag **BP_3DGS** or **BP_4DGS** into your level and configure in the **Details** panel.
-
----
-
-## Usage
-
-See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases/latest) for detailed usage instructions.
+Drag **BP_3DGS** or **BP_4DGS** into your level and configure in the **Details** panel. See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases/latest) for detailed usage.
 
 ---
 
