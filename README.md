@@ -16,7 +16,6 @@
 
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Requirements](#requirements)
 - [Support](#support)
 - [License](#license)
 
@@ -61,13 +60,6 @@ Drag **BP_3DGS** or **BP_4DGS** into your level and configure in the **Details**
 See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases/latest) for detailed usage.
 
 > **4DGS:** Use [**4DGS Converter**](https://github.com/DazaiStudio/4dgs-converter) to convert 4DGS training output into `.gsd` files.
-
----
-
-## Requirements
-
-- Unreal Engine 5.5+
-- Windows (DirectX 12)
 
 ---
 
