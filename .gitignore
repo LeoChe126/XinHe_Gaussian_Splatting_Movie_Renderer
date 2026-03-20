@@ -10,3 +10,7 @@ Saved/
 
 # Third-party reference plugins (large binaries, not ours)
 ref/
+
+# Build output and release packages
+builds/
+release-packages/
