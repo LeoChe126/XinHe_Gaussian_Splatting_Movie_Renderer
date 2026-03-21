@@ -65,7 +65,8 @@ See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPl
 
 ## Support
 
-Found a bug or have a question? [Open an issue](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/issues) or email dazai.studio@gmail.com.
+For bug reports and feature requests, please use the [GitHub Issues](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/issues) page.
+For general questions and discussions, please use the [GitHub Discussions](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/discussions) page.
 
 <a href="https://buymeacoffee.com/dazaistudio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
 
