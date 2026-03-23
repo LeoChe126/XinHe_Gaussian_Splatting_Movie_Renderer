@@ -12,8 +12,10 @@
 
 <p align="center">
   <a href="https://youtu.be/eeR5QMQA7co">
-    <img src="docs/demo-cover.jpg" alt="Demo Video" width="700">
+    <img src="docs/demo-preview.gif" alt="Demo Video" width="700">
   </a>
+  <br>
+  <a href="https://youtu.be/eeR5QMQA7co"><b>Watch Full Demo on YouTube</b></a>
 </p>
 
 ---
