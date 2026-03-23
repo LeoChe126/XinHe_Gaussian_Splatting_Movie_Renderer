@@ -10,6 +10,12 @@
   </p>
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/eeR5QMQA7co">
+    <img src="docs/demo-cover.jpg" alt="Demo Video" width="700">
+  </a>
+</p>
+
 ---
 
 ## Table of Contents
