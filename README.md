@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="docs/logo.png" alt="Splat Renderer" width="200">
-  <h1 align="center">Splat Renderer</h1>
+  <img src="docs/logo.png" alt="GS Movie" width="200">
+  <h1 align="center">GS Movie</h1>
   <p align="center">3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.5+</p>
   <p align="center">
     <img src="https://img.shields.io/badge/Unreal%20Engine-5.5+-blue" alt="UE">
     <img src="https://img.shields.io/badge/Platform-Windows-lightgrey" alt="Platform">
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue" alt="License">
-    <a href="https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases"><img src="https://img.shields.io/badge/Release-v1.0.1-green" alt="Release"></a>
+    <a href="https://github.com/DazaiStudio/GSMovie-UEPlugin/releases"><img src="https://img.shields.io/badge/Release-v1.0.1-green" alt="Release"></a>
   </p>
 </p>
 
@@ -43,9 +43,9 @@
 
 ### 1. Download
 
-Download the latest release from the [**Releases**](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases) page.
+Download the latest release from the [**Releases**](https://github.com/DazaiStudio/GSMovie-UEPlugin/releases) page.
 
-Extract `SplatRenderer` into your project's `Plugins/` directory.
+Extract `GSMovie` into your project's `Plugins/` directory.
 
 <img src="docs/install-folder.png" alt="Install Folder" width="500">
 
@@ -53,19 +53,19 @@ Extract `SplatRenderer` into your project's `Plugins/` directory.
 
 Launch your project in Unreal Engine. The plugin will be loaded automatically.
 
-Verify in **Edit > Plugins** by searching for **Splat Renderer**.
+Verify in **Edit > Plugins** by searching for **GS Movie**.
 
 <img src="docs/plugin-browser.png" alt="Plugin Browser" width="500">
 
 ### 3. Add to Level
 
-Open the **Content Browser** and navigate to **Plugins > Splat Renderer Content > Blueprints**.
+Open the **Content Browser** and navigate to **Plugins > GS Movie Content > Blueprints**.
 
 <img src="docs/content-browser.png" alt="Content Browser" width="600">
 
 Drag **BP_3DGS** or **BP_4DGS** into your level and configure in the **Details** panel.
 
-See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/releases/latest) for detailed usage.
+See the [latest release notes](https://github.com/DazaiStudio/GSMovie-UEPlugin/releases/latest) for detailed usage.
 
 > **4DGS:** Use [**4DGS Converter**](https://github.com/DazaiStudio/4dgs-converter) to convert 4DGS training output into `.gsd` files.
 
@@ -73,9 +73,9 @@ See the [latest release notes](https://github.com/DazaiStudio/SplatRenderer-UEPl
 
 ## Support
 
-For bug reports and feature requests, please use the [GitHub Issues](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/issues) page.
+For bug reports and feature requests, please use the [GitHub Issues](https://github.com/DazaiStudio/GSMovie-UEPlugin/issues) page.
 
-For general questions and discussions, please use the [GitHub Discussions](https://github.com/DazaiStudio/SplatRenderer-UEPlugin/discussions) page.
+For general questions and discussions, please use the [GitHub Discussions](https://github.com/DazaiStudio/GSMovie-UEPlugin/discussions) page.
 
 <a href="https://buymeacoffee.com/dazaistudio"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
 

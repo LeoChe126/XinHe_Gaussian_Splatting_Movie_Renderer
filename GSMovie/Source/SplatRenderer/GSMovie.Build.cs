@@ -1,9 +1,9 @@
 using System.IO;
 using UnrealBuildTool;
 
-public class SplatRenderer : ModuleRules
+public class GSMovie : ModuleRules
 {
-    public SplatRenderer(ReadOnlyTargetRules Target) : base(Target)
+    public GSMovie(ReadOnlyTargetRules Target) : base(Target)
     {
         PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 
