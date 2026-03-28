@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="docs/logo.png" alt="GS Movie" width="200">
   <h1 align="center">GS Movie</h1>
   <p align="center">3D/4D Gaussian Splatting renderer plugin for Unreal Engine 5.5+</p>
   <p align="center">
