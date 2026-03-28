@@ -7,9 +7,12 @@
   "Category": "Rendering",
   "CreatedBy": "Dazai Studio",
   "CreatedByURL": "https://github.com/DazaiStudio",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EngineVersion": "5.7.0",
   "CanContainContent": true,
-  "EnabledByDefault": true,
-  "Installed": false,
+  "Installed": true,
   "Modules": [
     {
       "Name": "GSMovie",
