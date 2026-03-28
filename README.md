@@ -1,0 +1,2 @@
+# XinHe_Gaussian_Splatting_Movie_Renderer
+Gaussian Splatting Movie Renderer XinHeJingCheng 
